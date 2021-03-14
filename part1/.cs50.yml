@@ -1,9 +1,4 @@
 lab50:
-window:
-    - editor
-    - readme
-    - terminal
-    - x
   files:
     - !exclude "*"
     - !include "part1.py"
