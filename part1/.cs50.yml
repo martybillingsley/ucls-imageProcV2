@@ -3,3 +3,8 @@ lab50:
     - !exclude "*"
     - !include "part1.py"
     - !include "flower.jpg"
+  window:
+    - editor
+    - readme
+    - terminal
+    - x
